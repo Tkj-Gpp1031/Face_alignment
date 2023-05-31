@@ -1,0 +1,2 @@
+# Face_alignment
+本项目使用CNN来预测面部地标，而后根据面部地标来计算要修改颜色的区域，从而改变嘴唇和眼睛颜色，请运行文件train_model.py，模型将储存在saved_model文件中，项目要求请查看Coursework_Assignment.pdf文件，项目实验报告请参考CV_assignment.docx文件
